@@ -34,8 +34,8 @@ pip (Python package manager)
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/health-assistant-pro.git
-cd health-assistant-pro
+git clone https://github.com/Chiragpkumar/Disease-Prediction-System.git
+cd Disease-Prediction-System 
 ```
 
 2. Install required packages:
